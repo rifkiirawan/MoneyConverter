@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\bin\Debug\netcoreapp3.1\MoneyConverter.exe
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\bin\Debug\netcoreapp3.1\MoneyConverter.deps.json
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\bin\Debug\netcoreapp3.1\MoneyConverter.runtimeconfig.json
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\bin\Debug\netcoreapp3.1\MoneyConverter.runtimeconfig.dev.json
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\bin\Debug\netcoreapp3.1\MoneyConverter.dll
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\bin\Debug\netcoreapp3.1\MoneyConverter.pdb
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.Form1.resources
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.AssemblyInfo.cs
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.dll
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.pdb
+C:\Users\User\source\repos\MoneyConverter\MoneyConverter\obj\Debug\netcoreapp3.1\MoneyConverter.genruntimeconfig.cache
